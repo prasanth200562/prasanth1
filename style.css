@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(to bottom, #f77084, #f77171);
+  background: #000;  /* changed to black */
   color: white;
   height: 100vh;
   display: flex;
@@ -127,4 +127,3 @@ button.send-button {
   border-radius: 10px;
   border: 2px solid white;
 }
-
